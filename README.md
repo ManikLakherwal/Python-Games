@@ -12,7 +12,7 @@
     <br/>
 <p align="center">
   <img src="https://github.com/ManikLakherwal/Python-Games/blob/main/The%20classic%20Pong/imag.jpg"
-        width="400" 
+        width="650" 
      height="500" />
 </p>
 <br/>
