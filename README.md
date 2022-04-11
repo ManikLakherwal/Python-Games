@@ -11,7 +11,9 @@
 * The classic pong
     <br/>
 <p align="center">
-  <img src="https://github.com/ManikLakherwal/Python-Games/blob/main/The%20classic%20Pong/imag.jpg">
+  <img src="https://github.com/ManikLakherwal/Python-Games/blob/main/The%20classic%20Pong/imag.jpg"
+        width="400" 
+     height="500" />
 </p>
 <br/>
 * Flappy bird
