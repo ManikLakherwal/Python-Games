@@ -23,8 +23,6 @@
   <img src="https://github.com/ManikLakherwal/Python-Games/blob/main/The%20flappy%20bird/imag.jpg"
         width="650" 
      height="500" />
-  <img src="https://github.com/ManikLakherwal/Python-Games/blob/main/The%20flappy%20bird/imag.jpg"
-        width="650" 
-     height="500" />
+
 </p>
 <br/>
